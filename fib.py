@@ -7,7 +7,6 @@ def fibonacci(n):
 
 # Calculate the first 50 Fibonacci numbers
 fib_numbers = fibonacci(50)
-
 # Sum the first 50 Fibonacci numbers
 fib_sum = sum(fib_numbers)
 
